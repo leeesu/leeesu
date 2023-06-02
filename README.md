@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=leeesu&theme=graywhite&show_icons=true" width="50%" />
 </a>
 
-### ✈ Skils
+### ✈ Skil
 `📶 tech that i've used at least once`
 <div>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
