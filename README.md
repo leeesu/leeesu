@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeesu&layout=compact&theme=graywhite" width="45%"/>
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=leeesu&theme=graywhite&show_icons=true" width="50%" />
 </a>
+-->
+
 
 ### ✈ Skils
 `📶 tech that i've used at least once`
